@@ -1,6 +1,8 @@
-### Olá, eu sou Gésio Richard.
+<h1 align="center"> Hello everyone</h1>
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<h2 align="center"> About me </h2>
+
+<p> My name is Gésio Richard, and I am currently a student in the 3rd semester of the Information Systems course. I am studying Java as my main programming language. I enjoy learning about new technologies, creating logic to solve problems, and consequently fixing bugs. My goal is to enter the job market as a back-end developer, working with Java, utilizing Spring, and making use of various databases.  </p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GesioRichard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
