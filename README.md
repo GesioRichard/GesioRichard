@@ -2,7 +2,7 @@
 
 <h2 align="center"> About me 🤔 </h2>
 
-<p align="center"> My name is Gésio Richard, and I am currently a student in the 4rd semester of the Information Systems course. I'm currently studying Spring boot. Java as my main programming language. I enjoy learning about new technologies, creating logic to solve problems, and consequently fixing bugs. My goal is to enter the job market as a back-end developer, working with Java utilizing Spring, and making use of various databases.  </p>
+<p align="justify"> My name is Gésio Richard, and I am currently a student in the 4rd semester of the Information Systems course. I'm currently studying Spring boot. Java as my main programming language. I enjoy learning about new technologies, creating logic to solve problems, and consequently fixing bugs. My goal is to enter the job market as a back-end developer, working with Java utilizing Spring, and making use of various databases.  </p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GesioRichard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
