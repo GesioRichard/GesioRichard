@@ -4,16 +4,9 @@
 
 <p align="center"> My name is Gésio Richard, and I am currently a student in the 4rd semester of the Information Systems course. I'm currently studying Spring boot. Java as my main programming language. I enjoy learning about new technologies, creating logic to solve problems, and consequently fixing bugs. My goal is to enter the job market as a back-end developer, working with Java utilizing Spring, and making use of various databases.  </p>
 
-<div align="center" style=" display: inline-block;">
-  <div style=" display: flex;"> 
-    <h3> My Technologies </h3>
-  </div>
-  <div style=" display: flex;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GesioRichard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </div>
-  <div style=" display: flex;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GesioRichard&layout=compact&theme=radical" />
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GesioRichard&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GesioRichard&layout=compact&theme=radical" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
